@@ -1,0 +1,15 @@
+asynchronous programming is where operations can execute without blocking other operations.
+ Name 3 types of loops and what they are used for
+Basically loops are of three types
+
+For loop : For loop we use when the condition is given
+
+While loop : while loop and do while loop is used when the conditions are hidden
+
+Do while loop : Like a while statement, except that it tests the condition at the end of the loop body
+
+Enhance for loop: This is mainly used to traverse collection of elements including arrays
+
+Recursion is a process in which a function calls itself as a subroutine
+
+The tail recursion is basically using the recursive function as the last statement of the function. So when nothing is left to do after coming back from the recursive call, that is called tail recursion
